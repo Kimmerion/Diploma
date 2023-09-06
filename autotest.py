@@ -1,7 +1,8 @@
+# Максимова Александра Алексеевна, 8-я когорта — Финальный проект. Инженер по тестированию плюс
 import requests
 
 
-BASE_URL = 'https://f3e7328c-57f5-4d06-b3ac-f0137b393c98.serverhub.praktikum-services.ru'
+BASE_URL = 'https://2fb054ce-3b00-4f62-96e7-055b0af35da0.serverhub.praktikum-services.ru'
 CREATE_ORDER_PATH = '/api/v1/orders'
 GET_ORDER_PATH = '/api/v1/orders/track'
 
